@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Olde';
+    src: url('/static/OldeEnglish.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Olde';
+    background-color: black;
+    color: white;
+}
